@@ -1,0 +1,2 @@
+- name: Yarn-cli with chromium
+  uses: looqbox/yarn-action-chromium@v1.1.0
